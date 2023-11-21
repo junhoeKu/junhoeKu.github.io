@@ -1,3 +1,4 @@
-# congenial-fiesta
-$ git config --global user.name "Kenneth"
-$ git config --global user.email "kenneth@pigno.se"
+# 디자인 감성어사전 구축
+## 감성어 사전 + 디자인 분야별 키워드 추가
+### 난 모르겠어~ 이런 방식은 처음 해봐요 ㅇㅇㅇ요요요요요요
+
